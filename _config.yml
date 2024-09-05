@@ -25,7 +25,7 @@ github: [metadata]
 # in the templates via {{ site.myvariable }}.
 title: Portfolio
 email: joalampela@gmail.com
-description: Joa Lampela Portfolio
+description: Joa Lampela's Portfolio
 twitter_username: none
 github_username: JoaLampela
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -66,22 +66,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jarno Tiainen"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a third year software engineer student at Metropolia University studying Game Development."
+  name   : "Joa Lampela"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "I'm a recently graduated ICT Engineer (UAS) with a major in Game Applications and I'm currently looking for my first job."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JarnoTiainen"
+      url: "https://github.com/JoaLampela"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jarno-tiainen-223a74272/"
+      url: "https://www.linkedin.com/in/joa-lampela/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
-#      url: "https://jarnotiainen.github.io"
+#      url: "https://joalampela.github.io"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -90,10 +90,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JarnoTiainen"
+      url: "https://github.com/JoaLampela"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jarno-tiainen-223a74272/"
+      url: "https://www.linkedin.com/in/joa-lampela"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
