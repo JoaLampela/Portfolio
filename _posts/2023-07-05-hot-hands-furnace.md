@@ -3,7 +3,6 @@ title: "Hot Hands"
 categories:
   - Game Project
 tags:
-  - Card game
   - PC
   - University Gamedev League 2022
 ---
@@ -24,6 +23,6 @@ Global chat.
 
 The game was made in under a month using Unity and Amazon Web Services.
 
-You can check out [Hot Hands Furnace][website]'s itch.io page for more information and a downloadable zip file of the game.
+You can check out Hot Hands Furnace's [itch.io page][website] for more information and a downloadable zip file of the game.
 
 [website]: https://hunnydragon.itch.io/hothandsfurnace
