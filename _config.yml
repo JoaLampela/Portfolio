@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Joa Lampela"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I'm a recently graduated ICT Engineer (UAS) graduate with a major in Game Applications and I'm looking for my next big project."
+  bio    : "A passionate game developer with an affinity to netcode."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
