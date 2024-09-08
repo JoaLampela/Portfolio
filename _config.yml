@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Joa Lampela"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "A passionate game developer with an affinity to netcode."
+  bio    : "A passionate game developer with an affinity for netcode."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
