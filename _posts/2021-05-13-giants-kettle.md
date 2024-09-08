@@ -3,7 +3,7 @@ title: "Giant's Kettle"
 categories:
   - Game Project
 tags:
-  - Roguelike
+  - PC
   - School project
 ---
 
