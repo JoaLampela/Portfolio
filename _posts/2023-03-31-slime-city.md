@@ -15,7 +15,7 @@ This game was Team Brute Force's entry for the first task of University Gamedev 
 
 We decided to make an arcade cabinet -style game with pixel-art graphics. For the gameplay, the team voted on a colorful [Splatoon][splatoon]-inspired painting mechanic to accumulate score that later evolved into spreading glowing yellow slime to fit the artists' vision. The game fared moderately well in this round of the competition, but did not end up winning the round.
 
-I was responsible for the AWS services' implementation in the cloud. The scores were saved to a DynamoDB database table with a Lambda function that was accessed via an API Gateway. As the Team Lead, I was also responsible for general project management and planning.
+I was responsible for the AWS services' implementation in the cloud, which were used to save users' scores to the cloud. As the Team Lead, I was also responsible for general project management and planning.
 
 The game was made in under a month using Unity and Amazon Web Services.
 
