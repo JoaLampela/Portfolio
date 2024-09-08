@@ -7,7 +7,7 @@ tags:
   - University Gamedev League 2022
 ---
 
-Beast Brawlers is a fighting game where players control animal characters.
+Beast Brawlers is a 3D fighting game where players control animal characters.
 
 ![Beast Brawlers]({{site.url}}{{site.baseurl}}/assets/images/beast-brawlers-logo.png)
 

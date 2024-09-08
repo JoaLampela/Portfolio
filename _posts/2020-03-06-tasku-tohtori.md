@@ -15,7 +15,7 @@ The project was a demo for a potentially helpful health and wellness application
 
 ![Symptoms]({{site.url}}{{site.baseurl}}/assets/images/symptoms.png)
 
-I was responsible for implementing and populating the database for the app. I used the Room database to store illnesses and their symptoms.
+I was responsible for implementing and populating the database for the app. I used the Room database system to store illnesses and their symptoms.
 
 The app was made as a school project using Android Studio.
 
