@@ -74,7 +74,7 @@ author:
       url: "https://github.com/JoaLampela"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joa-lampela/"
+      url: "https://www.linkedin.com/in/joa-lampela"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:joalampela@gmail.com"
@@ -128,7 +128,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /top-projects/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /all-projects/
