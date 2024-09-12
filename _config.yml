@@ -4,7 +4,7 @@
 # github-pages mandatory configuration
 domain: joalampela.github.io
 url: https://joalampela.github.io
-baseurl: /Portfolio/
+baseurl: /portfolio/
 repository: JoaLampela/Portfolio
 github: [metadata]
 
