@@ -1,6 +1,6 @@
 ---
 title: "Slime City"
-categories:
+tags:
   - Other
 ---
 

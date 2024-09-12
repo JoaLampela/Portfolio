@@ -1,6 +1,6 @@
 ---
-title: "Projects by Year"
+title: "Projects"
 permalink: /posts/
-layout: categories # old: posts
+layout: tags # old: posts
 author_profile: true
 ---

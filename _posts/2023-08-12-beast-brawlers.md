@@ -1,6 +1,6 @@
 ---
 title: "Beast Brawlers"
-categories:
+tags:
   - Best
 ---
 

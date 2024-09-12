@@ -1,6 +1,6 @@
 ---
 title: "Hot Hands Furnace"
-categories:
+tags:
   - Best
 ---
 

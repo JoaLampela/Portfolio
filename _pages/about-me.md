@@ -1,6 +1,6 @@
 ---
-permalink: /about/
 title: "About me"
+permalink: /about/
 ---
 
 I'm a recently graduated ICT Engineer (UAS) with a major in Game Applications who's looking for his next big project.

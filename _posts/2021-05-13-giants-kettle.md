@@ -1,6 +1,6 @@
 ---
 title: "Giant's Kettle"
-categories:
+tags:
   - Other
 ---
 

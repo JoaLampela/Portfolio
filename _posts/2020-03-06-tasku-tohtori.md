@@ -1,6 +1,6 @@
 ---
 title: "Tasku Tohtori"
-categories:
+tags:
   - Other
 ---
 
