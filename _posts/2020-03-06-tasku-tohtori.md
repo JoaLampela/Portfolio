@@ -1,10 +1,7 @@
 ---
 title: "Tasku Tohtori"
 categories:
-  - App
-tags:
-  - Mobile
-  - School project
+  - Other
 ---
 
 Tasku Tohtori (Pocket Doctor) is a mobile application that asks the user questions and narrows down the illness that is affecting them based on their answers, similar to what the [Akinator][akinator] website does.
@@ -15,7 +12,7 @@ The project was a demo for a potentially helpful health and wellness application
 
 ![Symptoms]({{site.url}}{{site.baseurl}}/assets/images/symptoms.png)
 
-I was responsible for implementing and populating the database for the app. I used the Room database system to store illnesses and their symptoms.
+I was responsible for designing, implementing, and populating the database for the app. I used the Room database system to store illnesses and their symptoms.
 
 The app was made as a school project using Android Studio.
 

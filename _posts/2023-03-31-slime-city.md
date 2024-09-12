@@ -1,10 +1,7 @@
 ---
 title: "Slime City"
 categories:
-  - Game Project
-tags:
-  - PC
-  - University Gamedev League 2022
+  - Other
 ---
 
 Slime City is an arcade-style game where your goal is to spread as much slime as you can to earn points and to compete against other players' highscores. The game is inspired by retro arcade cabinets from the 80s.

@@ -1,13 +1,10 @@
 ---
 title: "Beast Brawlers"
 categories:
-  - Game Project
-tags:
-  - PC
-  - University Gamedev League 2022
+  - Best
 ---
 
-Beast Brawlers is a 3D fighting game where players control animal characters.
+Beast Brawlers is a 3D fighting game where players control animal characters. Winner project of University Gamedev League 2022 final.
 
 ![Beast Brawlers]({{site.url}}{{site.baseurl}}/assets/images/beast-brawlers-logo.png)
 
@@ -18,7 +15,7 @@ The task necessitated a 3D graphics solution, so we decided to make the game usi
 ![Gameplay]({{site.url}}{{site.baseurl}}/assets/images/beast-brawlers-gameplay.png)
 Beast Brawlers game view.
 
-I was responsible for the movement controls, combination moves and balancing, all of which I did with together closely with the artists and the playtesters. As the Team Lead, I was also responsible for general project management and planning.
+I was responsible for the movement controls, combination moves' implementation, and balancing, all of which I did with together closely with the artists and the playtesters. As the Team Lead, I was also responsible for general project management and planning.
 
 The game was made in under a month using Unity.
 

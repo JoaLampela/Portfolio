@@ -1,10 +1,7 @@
 ---
-title: "Hot Hands"
+title: "Hot Hands Furnace"
 categories:
-  - Game Project
-tags:
-  - PC
-  - University Gamedev League 2022
+  - Best
 ---
 
 Hot Hands Furnace is a card game with a twist: instead of taking turns, both players play cards simultaneously in real time.
