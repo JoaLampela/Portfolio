@@ -19,7 +19,7 @@ The game features 60+ unique cards with persistent player profiles with fully cu
 ![Deck Builder]({{site.url}}{{site.baseurl}}/assets/images/hh-deck-builder.png)
 Card collection and deck builder.
 
-The game also contains a global chat with persistent history in the main menu for talking to other players.
+The game also contains a global chat with persistent history in the main menu for talking to other players. The chat messages persist for a few hours before they're no longer being displayed.
 
 ![Chat]({{site.url}}{{site.baseurl}}/assets/images/hh-chat.png)
 Global chat.
