@@ -1,7 +1,5 @@
 ---
 title: "Tasku Tohtori"
-tags:
-  - Other
 ---
 
 Tasku Tohtori (Pocket Doctor) is a mobile application that asks the user questions and narrows down the illness that is affecting them based on their answers, similar to what the [Akinator][akinator] website does.
