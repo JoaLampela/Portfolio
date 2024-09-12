@@ -2,7 +2,7 @@
 title: "Hot Hands Furnace"
 categories:
   - Top Projects
-  tags:
+tags:
   - All Projects
 ---
 

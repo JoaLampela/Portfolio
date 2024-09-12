@@ -2,7 +2,7 @@
 title: "Beast Brawlers"
 categories:
   - Top Projects
-  tags:
+tags:
   - All Projects
 ---
 
