@@ -1,7 +1,6 @@
 ---
 title: "Slime City"
 tags:
-  - Other
 ---
 
 Slime City is an arcade-style game where your goal is to spread as much slime as you can to earn points and to compete against other players' highscores. The game is inspired by retro arcade cabinets from the 80s.

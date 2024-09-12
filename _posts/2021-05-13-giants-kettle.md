@@ -1,7 +1,6 @@
 ---
 title: "Giant's Kettle"
 tags:
-  - Other
 ---
 
 Giant's Kettle is a top-down roguelike dungeon crawling game with a rune/item system. In the game, the player finds equipment by killing enemies and unlocks new runes after each level-up.

@@ -1,6 +1,6 @@
 ---
-title: "Projects by Category"
+title: "Top Projects"
 layout: categories
-permalink: /categories/
+permalink: /top-projects/
 author_profile: true
 ---
