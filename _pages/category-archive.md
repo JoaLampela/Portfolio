@@ -1,6 +1,6 @@
 ---
 title: "Top Projects"
-layout: categories
 permalink: /top-projects/
+layout: categories
 author_profile: true
 ---

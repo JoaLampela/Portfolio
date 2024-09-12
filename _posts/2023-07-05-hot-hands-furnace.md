@@ -1,6 +1,7 @@
 ---
 title: "Hot Hands Furnace"
 categories:
+  - Top Projects
 ---
 
 Hot Hands Furnace is a card game with a twist: instead of taking turns, both players play cards simultaneously in real time.
