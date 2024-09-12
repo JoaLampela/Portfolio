@@ -1,6 +1,6 @@
 ---
 title: "All Projects"
 permalink: /all-projects/
-layout: tags
+layout: single # tags
 author_profile: true
 ---
