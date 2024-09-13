@@ -14,8 +14,6 @@ This game was Team Brute Force's entry for the fourth task of University Gamedev
 
 Many of the team members had worked together on a game concept for a real-time card game, so we decided to move forward with that idea. Card effects were kept simple and understandable while introducing interaction using a countdown-based spell system. The game's speed was also made to increase as players' hands warmed up during the course of a match. The game ended up winning this round of the competition.
 
-I was responsible for the game's netcode and the AWS services' implementation in the cloud.
-
 The game features 60+ unique cards with persistent player profiles with fully customizable decks that are stored in the cloud.
 
 ![Deck Builder]({{site.url}}{{site.baseurl}}/assets/images/hh-deck-builder.png)
